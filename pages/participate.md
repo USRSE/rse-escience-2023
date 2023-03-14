@@ -20,7 +20,7 @@ Possible topics include (but are not limited to):
 
 
 We will ask the authors of accepted abstracts and presentations to self-publish (after
-revisions, if applicable) to an archival repository (e.g., Zenodo, arxiv). Our
+revisions, if applicable) to an archival repository (e.g., Zenodo, arXiv). Our
 website will then provide links to the self-published documents.
 
 Accepted submitters will also be invited to present in-person at
@@ -36,7 +36,7 @@ Submission website:
 
 ### Timeline
 
-- Submissions open:  Monday, April 10, 2023
+- Submissions open:  Tuesday, March 14, 2023
 - Abstract submissions due: Friday, June 30, 2023
 - Notifications sent:  Tuesday, August 1, 2023
 - Program finalized:  Tuesday, August 15, 2023
