@@ -15,4 +15,13 @@ permalink: /committee/
 
 ## Program Committee
 
-TBD
+- Richard Abdill
+- Marissa Adams
+- Nasir Eisty
+- Dan Gunter
+- Evan Harvey
+- Mariia Ivonina
+- Jack Marquez
+- Reed Milewicz
+- Mitchell Negus
+- Shilpa Sajeev
