@@ -37,9 +37,9 @@ Submission website:
 ### Timeline
 
 - Submissions open:  Monday, March 20, 2023
-- Abstract submissions due: Friday, June 30, 2023
-- Notifications sent:  Tuesday, August 1, 2023
-- Program finalized:  Tuesday, August 15, 2023
+- Abstract submissions due: Monday, July 31, 2023
+- Notifications sent:  Tuesday, August 15, 2023
+- Program finalized:  Tuesday, August 22, 2023
 - Workshop date:  Monday, October 9, 2023
 
 ### Questions?
