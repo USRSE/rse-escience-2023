@@ -31,7 +31,6 @@ favicon: /assets/img/favicon.ico
 navbar-links:
 
   Participate: "participate"
-  Attend: "attend"
   Agenda: "agenda"
   Committee: "committee"
   Code of Conduct: "code-of-conduct"
