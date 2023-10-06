@@ -40,7 +40,11 @@ Moderators: Weronika Filinger, Daniel S. Katz
   </td>
 </tr>
 <tr>
+<<<<<<< HEAD
   <td>09:50</td>
+=======
+  <td>9:50 AM</td>
+>>>>>>> 1fc1761df40e5900efe763fb0a34a6907f28ea45
   <td><b>Interactive Participant Survey</b></td>
 </tr>
 <tr>
