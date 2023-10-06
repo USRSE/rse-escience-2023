@@ -41,10 +41,6 @@ Moderators: Weronika Filinger, Daniel S. Katz
 </tr>
 <tr>
   <td>9:50 AM</td>
-  <td><b>Presenter Q&A</b></td>
-</tr>
-<tr>
-  <td>10:00 AM</td>
   <td><b>Interactive Participant Survey</b></td>
 </tr>
 <tr>
