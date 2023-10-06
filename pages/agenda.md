@@ -10,7 +10,7 @@ The full list of abstracts for all accepted talks can be found [here]({{ site.ba
 
 [Workshop on eScience 2023 website](https://www.escience-conference.org/2023/workshops)
 
-## Wednesday, October 11, 2023, 9:00 AM - 12:00 PM EEST
+## Wednesday, October 11, 2023, 09:00 - 12:30 EEST
 
 Moderators: Weronika Filinger, Daniel S. Katz
 
@@ -20,11 +20,11 @@ Moderators: Weronika Filinger, Daniel S. Katz
   <th>Session Title </th>
 </tr>
 <tr>
-  <td>9:00 AM</td>
-  <td>Intro (Welcome, What is the US-RSE?)</td>
+  <td>09:00</td>
+  <td>Introduction (Welcome, What is the US-RSE?)</td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">9:10 AM</td>
+  <td style="vertical-align: top;">09:10</td>
   <td>
     <i>Talk</i><br>
     <b><a href="{{ site.baseurl }}/abstracts">Automating Onboarding: Empowering New Team Members through DevOps</a></b> <br>
@@ -32,7 +32,7 @@ Moderators: Weronika Filinger, Daniel S. Katz
   </td>
 </tr>
 <tr>
-  <td style="vertical-align: top;">9:30 AM</td>
+  <td style="vertical-align: top;">09:30</td>
   <td>
     <i>Talk</i> <br>
     <b><a href="{{ site.baseurl }}/abstracts">Multiple Presentations (AI/ML Considerations)</a></b> <br>
@@ -40,31 +40,27 @@ Moderators: Weronika Filinger, Daniel S. Katz
   </td>
 </tr>
 <tr>
-  <td>9:50 AM</td>
-  <td><b>Presenter Q&A</b></td>
-</tr>
-<tr>
-  <td>10:00 AM</td>
+  <td>09:50</td>
   <td><b>Interactive Participant Survey</b></td>
 </tr>
 <tr>
-  <td>10:30 AM</td>
+  <td>10:30</td>
   <td><i>30 min break</i></td>
 </tr>
 <tr>
-  <td>11:00 AM</td>
+  <td>11:00</td>
   <td><i>Organize breakout discussions</i></td>
 </tr>
 <tr>
-  <td>11:10 AM</td>
+  <td>11:10</td>
   <td><b>Breakout Discussions</b></td>
 </tr>
 <tr>
-  <td>11:45 AM</td>
+  <td>12:00</td>
   <td><b>Report back</b></td>
 </tr>
 <tr>
-  <td>11:57 AM</td>
+  <td>12:25</td>
   <td>Workshop Closeout</td>
 </tr>
 </table>
