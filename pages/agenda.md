@@ -35,7 +35,7 @@ Moderators: Weronika Filinger, Daniel S. Katz
   <td style="vertical-align: top;">9:30 AM</td>
   <td>
     <i>Talk</i> <br>
-    <b><a href="{{ site.baseurl }}/abstracts">Multiple Presentations (AI/ML Considerations)/a></b> <br>
+    <b><a href="{{ site.baseurl }}/abstracts">Multiple Presentations (AI/ML Considerations)</a></b> <br>
     <i>Jamil Gafur</i>
   </td>
 </tr>
